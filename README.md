@@ -1,4 +1,4 @@
-#Java Design Patterns
+## **Design Patterns**
 
 I Design Pattern sono metodi riutilizzabili per risolvere problemi di progettazione
 comuni all’interno di un determinato contesto. In altre parole offrono una soluzione progettuale
