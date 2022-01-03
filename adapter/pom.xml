@@ -4,14 +4,14 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.design</groupId>
-        <version>0.0.1-SNAPSHOT</version>
         <artifactId>java-design-patterns</artifactId>
+        <version>0.0.1-SNAPSHOT</version>
     </parent>
     <groupId>com.design</groupId>
-    <artifactId>abstractfactory</artifactId>
+    <artifactId>adapter</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>abstractfactory</name>
-    <description>abstractfactory</description>
+    <name>adapter</name>
+    <description>adapter</description>
     <properties>
         <java.version>11</java.version>
     </properties>
@@ -38,7 +38,7 @@
                         <configuration>
                             <archive>
                                 <manifest>
-                                    <mainClass>com.design.abstractfactory.Main</mainClass>
+                                    <mainClass>com.design.adapter.Main</mainClass>
                                 </manifest>
                             </archive>
                         </configuration>

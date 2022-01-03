@@ -8,10 +8,10 @@
         <artifactId>java-design-patterns</artifactId>
     </parent>
     <groupId>com.design</groupId>
-    <artifactId>abstractfactory</artifactId>
+    <artifactId>builder</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>abstractfactory</name>
-    <description>abstractfactory</description>
+    <name>builder</name>
+    <description>builder</description>
     <properties>
         <java.version>11</java.version>
     </properties>
@@ -38,7 +38,7 @@
                         <configuration>
                             <archive>
                                 <manifest>
-                                    <mainClass>com.design.abstractfactory.Main</mainClass>
+                                    <mainClass>com.design.builder.Main</mainClass>
                                 </manifest>
                             </archive>
                         </configuration>
